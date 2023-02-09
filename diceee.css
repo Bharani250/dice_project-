@@ -1,0 +1,39 @@
+body{
+   background-color:#393E46;  
+}
+
+.dice{
+    
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.container{
+    width: 70%;
+    text-align: center;
+    margin:auto;
+ }   
+
+p{
+    font-size: 2rem; 
+    color:#4Ecca3;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+.halo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+img{
+    width:80%;
+}
+h1{
+    font-family: 'Lobster',cursive;
+    color:#4Ecca3;
+    text-shadow: 5px 0 #232931;
+}
+
+
